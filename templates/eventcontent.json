@@ -1,0 +1,1 @@
+{"name":"EventContent","properties":[{"name":"title","label":"title","type":"string"},{"name":"body","label":"body","type":"string"},{"name":"created","label":"created","type":"date"},{"name":"by","label":"by","type":"string"},{"name":"when","label":"when","type":"date"}]}

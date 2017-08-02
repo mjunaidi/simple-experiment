@@ -1,0 +1,1 @@
+{"name":"Car","properties":[{"name":"model","label":"model","type":"string"},{"name":"year","label":"year","type":"string"},{"name":"brand","label":"brand","type":"string"}]}

@@ -1,0 +1,1 @@
+{"name":"Event","properties":[{"name":"name","label":"name","type":"string"},{"name":"date","label":"date","type":"date"},{"name":"created","label":"created","type":"string"}]}

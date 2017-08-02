@@ -1,0 +1,1 @@
+{"name":"User","properties":[{"name":"usernm","label":"usernm","type":"string"},{"name":"passwd","label":"passwd","type":"string"},{"name":"created","label":"created","type":"date"}]}
